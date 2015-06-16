@@ -1,9 +1,20 @@
 body {
-	background-color: #101010;
+	background-color: #CDCFD4;
+	margin: 0px;
 }
 
 #nav {
-	list-style: none;
-	background-color: #1010ff;
+	background-color: #C9C4B5;
+	border-right: 8px solid #DFF2F2;
+	height: 900px;
+	width: 20%;
+	padding-top: 25%;
+	margin: 0px;
 	float: left;
+	font-size: 3em;
+	font-family: sans-serif;
+}
+
+#nav ul {
+	list-style: none
 }
