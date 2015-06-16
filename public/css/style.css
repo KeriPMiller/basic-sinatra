@@ -18,3 +18,9 @@ body {
 #nav ul {
 	list-style: none
 }
+
+.content_wrapper {
+	float: left;
+	margin: 60px;
+
+}
