@@ -1,0 +1,9 @@
+body {
+	background-color: #101010;
+}
+
+#nav {
+	list-style: none;
+	background-color: #1010ff;
+	float: left;
+}
